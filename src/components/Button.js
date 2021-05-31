@@ -1,0 +1,1 @@
+export const buildButton = (title) => `<button>${title}</button>`
